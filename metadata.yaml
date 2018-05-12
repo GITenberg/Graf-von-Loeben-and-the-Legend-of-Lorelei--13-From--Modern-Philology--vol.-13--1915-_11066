@@ -1,5 +1,8 @@
 _repo: Graf-von-Loeben-and-the-Legend-of-Lorelei--13-From--Modern-Philology--vol.-13--1915-_11066
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Porterfield, Allen Wilson
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '3818'
     url: http://www.gutenberg.org/2009/agents/3818
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11066#Graf-von-Loeben-and-the-Legend-of-Lorelei--13-From--Modern-Philology--vol.-13--1915-
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
